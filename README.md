@@ -27,7 +27,7 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 AWESOME BOOKS WITH ES6 <a name="Portfolio-site"></a>
+# 📖 WEBPACK SETUP <a name="webpack-config"></a>
 
 **Web Pack Starter** I set up a  Frontend environment for building JavaScript applications.
 
