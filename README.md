@@ -11,7 +11,7 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
+- [📖 About the Project](#webpack-config)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
